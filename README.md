@@ -8,7 +8,7 @@ Using [Racket](https://www.racket-lang.org)
 
 ### Chapter 1. Building Abstractions with Procedures
 
-- [ ] 1.1 The Elements of Programming(1.1 ~ 1.8)
+- [x] 1.1 The Elements of Programming(1.1 ~ 1.8)
 
 - [ ] 1.2 Procedures and the Processes They Generate(1.9 ~ 1.28)
 
