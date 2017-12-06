@@ -2,9 +2,6 @@
 (define (sqrt x)
   (sqrt-iter 1.0 x))
 
-(define (square x)
-  (* x x))
-
 (define (average x y)
   (/ (+ x y) 2))
 
@@ -19,7 +16,7 @@
 
 (define (good-enough? old-guess new-guess)
   (<= (abs (- new-guess old-guess))
-     (* old-guess 0.001)))
+      (* old-guess 0.001)))
 
 ;; this is much better than 1-6.rkt when x is critical small or big
 ;; if x is small, the original one will get wrong answer
