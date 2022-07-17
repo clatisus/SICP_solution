@@ -8,6 +8,7 @@ Using [Racket SICP mode](https://docs.racket-lang.org/sicp-manual/)
 
 - https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
 - https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0
+- https://www.youtube.com/playlist?list=PLE18841CABEA24090
 
 ## Progress
 
