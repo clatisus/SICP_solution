@@ -1,8 +1,13 @@
 # SICP_solution
 
-coldwater's solution for *Structure and Interpretation of Computer Programs*
+My solution for *Structure and Interpretation of Computer Programs (2nd Edition)*
 
-Using [Racket](https://www.racket-lang.org)
+Using [Racket SICP mode](https://docs.racket-lang.org/sicp-manual/)
+
+## Video resources
+
+- https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF
+- https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0
 
 ## Progress
 
